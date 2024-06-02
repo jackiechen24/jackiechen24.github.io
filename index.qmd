@@ -1,11 +1,5 @@
 ---
-title: "jackiechen24.github.io"
+title: "Welcome and About Me"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to my website! My name is Jackie Chen, and I am a graduating fourth year Statistics and Data Science Major with a music minor at UCSB. After graduating from UCSB, I will be attending USC for graduate school.
