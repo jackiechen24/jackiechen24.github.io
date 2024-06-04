@@ -1,5 +1,36 @@
 ---
-title: "Welcome and About Me"
+title: "Jackie Chen"
+about:
+  template: trestles
+  image: ucsb-photo.png
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jackie-l-chen/
+    - text: GitHub
+      href: https://github.com/jackiechen24
+    - text: Email
+      href: mailto:jchen578@ucsb.edu
+    - text: Personal Blog
+      href: https://jackiechennews.blogspot.com/
+
 ---
 
-Welcome to my website! My name is Jackie Chen, and I am a graduating fourth year Statistics and Data Science Major with a music minor at UCSB. After graduating from UCSB, I will be attending USC for graduate school.
+## Welcome to my website!
+
+On my website, you can learn more about me, including my education background and hobbies, as well as photos and videos that are memorable to me.
+
+## Education
+
+University of California, Santa Barbara | Santa Barbara, CA
+B.S. in Statistics and Data Science with Minor in Music | Sept 2020 - June 2024
+
+Palo Alto High School | Palo Alto, CA
+High School Diploma | Aug 2016 - June 2020
+
+## Experience
+
+Savant Labs | Intern | July 2023 - Sept 2023
+
+Savant Labs | Intern | Aug 2022 - Sept 2022
+
+Camp Galileo | Summer Extended Care Intern | June 2022 - Aug 2022

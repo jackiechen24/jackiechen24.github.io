@@ -4,13 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Jackie Chen, and I am a graduating fourth year Statistics and Data Science Major with a music minor at UCSB. After graduating from UCSB, I will be attending USC for graduate school. I am from the Bay Area and went to Palo Alto High School (also known as Paly) prior to attending UCSB. I enjoy many different activities, including listening to music (with my favorite artists being Taylor Swift and Ariana Grande), playing music (specifically the flute and piano), spending time with others, playing NYT Games such as Wordle and Connections, drawing, and dancing/working out (I am trying to go to the gym at UCSB more often before graduation)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome and About Me",
+    "title": "Jackie Chen",
     "section": "",
-    "text": "Welcome to my website! My name is Jackie Chen, and I am a graduating fourth year Statistics and Data Science Major with a music minor at UCSB. After graduating from UCSB, I will be attending USC for graduate school."
+    "text": "On my website, you can learn more about me, including my education background and hobbies, as well as photos and videos that are memorable to me."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Jackie Chen",
+    "section": "",
+    "text": "On my website, you can learn more about me, including my education background and hobbies, as well as photos and videos that are memorable to me."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jackie Chen",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Santa Barbara | Santa Barbara, CA B.S. in Statistics and Data Science with Minor in Music | Sept 2020 - June 2024\nPalo Alto High School | Palo Alto, CA High School Diploma | Aug 2016 - June 2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jackie Chen",
+    "section": "Experience",
+    "text": "Experience\nSavant Labs | Intern | July 2023 - Sept 2023\nSavant Labs | Intern | Aug 2022 - Sept 2022\nCamp Galileo | Summer Extended Care Intern | June 2022 - Aug 2022"
+  },
+  {
+    "objectID": "photos-videos.html",
+    "href": "photos-videos.html",
+    "title": "Memorable Photos and Videos",
+    "section": "",
+    "text": "Here are some photos and videos that are memorable to me."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "My name is Jackie Chen, and I am a graduating fourth year Statistics and Data Science Major with a music minor at UCSB. After graduating from UCSB, I will be attending USC for graduate school. I am from the Bay Area and went to Palo Alto High School (also known as Paly) prior to attending UCSB. I enjoy many different activities, including listening to music (with my favorite artists being Taylor Swift and Ariana Grande), playing music (specifically the flute and piano), spending time with others, playing NYT Games such as Wordle and Connections, drawing, and dancing/working out (I am trying to go to the gym at UCSB more often before graduation)."
   }
 ]
