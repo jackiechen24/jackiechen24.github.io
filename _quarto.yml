@@ -13,8 +13,8 @@ website:
 
 format:
   html:
-    theme: quartz
-    css: styles.css
+    theme: styles.scss
+    mainfont: Figtree
     toc: true
     page-layout: full
 

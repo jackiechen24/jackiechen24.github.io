@@ -4,13 +4,17 @@ about:
   template: trestles
   image: ucsb-photo.png
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/jackie-l-chen/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/jackiechen24
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:jchen578@ucsb.edu
-    - text: Personal Blog
+    - icon: blogger
+      text: Personal Blog
       href: https://jackiechennews.blogspot.com/
 
 ---
